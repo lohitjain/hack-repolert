@@ -26,3 +26,10 @@ The goal is to create communication between the responders and public to ensure 
 
 Ideally, this app would become a default app on android devices. It is intended to be used on broader issues that affect the public at large versus individual cases. This is not meant to eliminate 911 but instead serve as a communication tool between witnesses and first responders, alleviating the clog of phone calls.
 
+## Frontend 
+
+On the frontend we used [ArcGIS Runtime SDK for Android](https://developers.arcgis.com/android/)
+
+
+
+
